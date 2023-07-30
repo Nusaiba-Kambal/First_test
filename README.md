@@ -1,2 +1,2 @@
 # First_test
-## my fisrt git repositry
+## my first git repositry
